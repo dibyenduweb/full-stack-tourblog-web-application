@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Taj Mahal",
+    "image": "https://i.ibb.co/4Zvt5Mr/2.png",
+    "short_description": "Explore the exquisite beauty of the Taj Mahal, a UNESCO World Heritage site and one of the most iconic landmarks in India.",
+    "category": "Historical",
+    "details_button": "Details",
+    "wishlist_button": "Wishlist"
+  },
+  {
+    "title": "Kerala",
+    "image": "https://i.ibb.co/hCnqXVB/3.png",
+    "short_description": "Cruise through the serene and picturesque Kerala backwaters, surrounded by lush green landscapes and tranquil waters.",
+    "category": "Nature",
+    "details_button": "Details",
+    "wishlist_button": "Wishlist"
+  },
+  {
+    "title": "Jaipur",
+    "image": "https://i.ibb.co/dB3h6yQ/4.png",
+    "short_description": "Experience the rich cultural heritage of Jaipur, the Pink City, by visiting magnificent palaces, forts, and colorful bazaars.",
+    "category": "Cultural",
+    "details_button": "Details",
+    "wishlist_button": "Wishlist"
+  },
+  {
+    "title": "Manali",
+    "image": "https://i.ibb.co/TgJVLxm/5.png",
+    "short_description": "Embark on an adventure in the scenic Himalayan town of Manali, known for its breathtaking landscapes and outdoor activities.",
+    "category": "Adventure",
+    "details_button": "Details",
+    "wishlist_button": "Wishlist"
+  },
+  {
+    "title": "Sundarbans",
+    "image": "https://i.ibb.co/6JhyRCQ/6.png",
+    "short_description": "Explore the unique Sundarbans mangrove forest, home to the Royal Bengal Tiger and diverse wildlife species.",
+    "category": "Wildlife",
+    "details_button": "Details",
+    "wishlist_button": "Wishlist"
+  },
+  {
+    "title": "Varanasi",
+    "image": "https://i.ibb.co/9TNR4sH/7.png",
+    "short_description": "Visit the ancient and sacred city of Varanasi, where you can witness spiritual rituals and explore historical temples.",
+    "category": "Historical",
+    "details_button": "Details",
+    "wishlist_button": "Wishlist"
+  }
+]

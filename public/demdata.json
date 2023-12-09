@@ -1,0 +1,157 @@
+[
+    {
+      "title": "Varanasi",
+      "image": "https://i.ibb.co/9TNR4sH/7.png",
+      "description": "Visit the ancient and sacred city of Varanasi, where you can witness spiritual rituals and explore historical temples.",
+      "category": "Historical",
+      "longdescription": "Varanasi, one of the oldest and most sacred cities in India, is a place of immense cultural and spiritual significance. Nestled along the banks of the sacred Ganges River in the state of Uttar Pradesh, Varanasi is renowned for its ancient temples, ghats, and spiritual practices. It's a city that exudes a unique blend of tradition and mysticism, drawing pilgrims, tourists, and seekers from around the world.  The city's spiritual aura is palpable as thousands of devotees visit its numerous ghats for religious rituals and to take a dip in the purifying waters of the Ganges. Varanasi is also famous for its intricate silk weaving industry, producing some of India's most exquisite fabrics. The city's narrow, winding streets are filled with vibrant markets, showcasing its rich heritage.  Varanasi is a place where time seems to stand still, where spirituality and tradition coexist harmoniously, making it a captivating destination for anyone seeking to explore the heart of India's cultural and religious heritage.",
+      "userEmail": "dibyendu.pr@gmail.com",
+      "userName": "Dibyendu Pramanik",
+      "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIDIFQjgeteuk5noUCd_zgk1ZE-u2bdfK9f1AI_JbE_Ijc=s96-c",
+      "createdAt": {
+        "date": "2023-11-05",
+        "time": "02:49:56"
+      }
+    },
+    {
+      "title": "Sundarbans",
+      "image": "https://i.ibb.co/6JhyRCQ/6.png",
+      "description": "Explore the unique Sundarbans mangrove forest, home to the Royal Bengal Tiger and diverse wildlife species.",
+      "category": "Wildlife",
+      "longdescription": "The Sundarbans, located in the southern part of Bangladesh and the eastern part of India, is a UNESCO World Heritage Site known for its incredible biodiversity and unique ecosystem. It is the largest mangrove forest in the world and is home to the majestic Royal Bengal Tiger, making it a top destination for wildlife enthusiasts. The dense mangrove cover, intricate waterways, and estuaries create a stunning backdrop for a variety of animal and plant species. Visitors can explore the mangroves through boat safaris, offering a chance to spot tigers, saltwater crocodiles, and numerous bird species. The Sundarbans is a true natural wonder, a place where the wild thrives, and nature's beauty is on full display.",
+      "userEmail": "dibyendu.pr@gmail.com",
+      "userName": "Dibyendu Pramanik",
+      "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIDIFQjgeteuk5noUCd_zgk1ZE-u2bdfK9f1AI_JbE_Ijc=s96-c",
+      "createdAt": {
+        "date": "2023-11-05",
+        "time": "02:49:32"
+      }
+    },
+    {
+      "title": "Manali",
+      "image": "https://i.ibb.co/TgJVLxm/5.png",
+      "description": "Embark on an adventure in the scenic Himalayan town of Manali, known for its breathtaking landscapes and outdoor activities.",
+      "category": "Adventure",
+      "longdescription": "Manali, nestled in the picturesque Kullu Valley of Himachal Pradesh, is a paradise for adventure seekers and nature lovers. Surrounded by the majestic Himalayan mountains, this charming town offers a perfect blend of serene landscapes, lush greenery, and thrilling activities. Whether you're into trekking, paragliding, or simply want to unwind amidst nature, Manali has it all. Roam through the quaint streets, visit the ancient Hadimba Temple, or indulge in winter sports like skiing and snowboarding. Manali's beautiful river valleys and towering peaks make it an ideal destination for all seasons.",
+      "userEmail": "dibyendu.pr@gmail.com",
+      "userName": "Dibyendu Pramanik",
+      "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIDIFQjgeteuk5noUCd_zgk1ZE-u2bdfK9f1AI_JbE_Ijc=s96-c",
+      "createdAt": {
+        "date": "2023-11-05",
+        "time": "02:49:06"
+      }
+    },
+    {
+      "title": "Jaipur",
+      "image": "https://i.ibb.co/dB3h6yQ/4.png",
+      "description": "Experience the rich cultural heritage of Jaipur, the Pink City, by visiting magnificent palaces, forts, and colorful bazaars.",
+      "category": "Cultural",
+      "longdescription": "Jaipur, known as the Pink City, is a living testament to the rich cultural heritage of Rajasthan. The city is adorned with magnificent palaces, grand forts, and vibrant markets that exude an old-world charm. Visitors are transported to a bygone era as they explore the opulent City Palace, marvel at the intricate architecture of Hawa Mahal, and wander through the historic Amer Fort. Jaipur is a paradise for shoppers, offering a wide range of traditional textiles, jewelry, and handicrafts. The city's pink-colored buildings, a symbol of hospitality, make it a unique and welcoming destination for travelers.",
+      "userEmail": "dibyendu.pr@gmail.com",
+      "userName": "Dibyendu Pramanik",
+      "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIDIFQjgeteuk5noUCd_zgk1ZE-u2bdfK9f1AI_JbE_Ijc=s96-c",
+      "createdAt": {
+        "date": "2023-11-05",
+        "time": "02:48:38"
+      }
+    },
+    {
+      "title": "Kerala",
+      "image": "https://i.ibb.co/hCnqXVB/3.png",
+      "description": "Cruise through the serene and picturesque Kerala backwaters, surrounded by lush green landscapes and tranquil waters.",
+      "category": "Nature",
+      "longdescription": "Kerala, often referred to as 'God's Own Country,' is a tropical paradise located in the southern part of India. It is renowned for its pristine beaches, tranquil backwaters, lush greenery, and a rich cultural heritage. One of the must-experience activities in Kerala is cruising through the backwaters in traditional houseboats. As you float along the peaceful waterways, you'll be surrounded by lush coconut groves, paddy fields, and picturesque villages. The region's diverse wildlife and serene landscapes make it a perfect destination for nature enthusiasts. Kerala also offers a wide range of Ayurvedic treatments and wellness retreats for those seeking relaxation and rejuvenation.",
+      "userEmail": "dibyendu.pr@gmail.com",
+      "userName": "Dibyendu Pramanik",
+      "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIDIFQjgeteuk5noUCd_zgk1ZE-u2bdfK9f1AI_JbE_Ijc=s96-c",
+      "createdAt": {
+        "date": "2023-11-05",
+        "time": "02:21:05"
+      }
+    },
+    {
+      "title": "Taj Mahal",
+      "image": "https://i.ibb.co/4Zvt5Mr/2.png",
+      "description": "Explore the exquisite beauty of the Taj Mahal, a UNESCO World Heritage site and one of the most iconic landmarks in India.",
+      "category": "Historical",
+      "longdescription": "The Taj Mahal, a masterpiece of Mughal architecture, stands as a symbol of eternal love in Agra, India. This UNESCO World Heritage site is one of the most iconic landmarks in the world, renowned for its stunning beauty and historical significance. The white marble mausoleum was built by Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal and is a testament to the grandeur of the Mughal era. Visitors are captivated by the intricate inlay work, beautiful gardens, and the Taj Mahal's reflection in the surrounding pool. It is a marvel of architectural and artistic achievement.",
+      "userEmail": "dibyendu.pr@gmail.com",
+      "userName": "Dibyendu Pramanik",
+      "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIDIFQjgeteuk5noUCd_zgk1ZE-u2bdfK9f1AI_JbE_Ijc=s96-c",
+      "createdAt": {
+        "date": "2023-11-05",
+        "time": "02:17:53"
+      }
+    },
+    {
+      "title": "Darjeeling",
+      "image": "https://image-url-for-darjeeling",
+      "description": "Description for Darjeeling",
+      "category": "Category for Darjeeling",
+      "longdescription": "Darjeeling, a charming hill station nestled in the Indian state of West Bengal, is known for its scenic beauty, lush tea gardens, and breathtaking views of the Himalayas. The town is often referred to as the 'Queen of the Hills' and is a perfect getaway for nature enthusiasts. Visitors can explore the beautiful tea plantations, go for a ride on the Darjeeling Himalayan Railway, or take a trek to Tiger Hill to witness a mesmerizing sunrise over the snowy peaks. Darjeeling's cool climate, serene monasteries, and vibrant markets make it an ideal destination for a tranquil escape.",
+      "userEmail": "dibyendu.pr@gmail.com",
+      "userName": "Dibyendu Pramanik",
+      "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIDIFQjgeteuk5noUCd_zgk1ZE-u2bdfK9f1AI_JbE_Ijc=s96-c",
+      "createdAt": {
+        "date": "2023-11-06",
+        "time": "08:30:00"
+      }
+    },
+    {
+      "title": "Meghalaya",
+      "image": "https://image-url-for-meghalaya",
+      "description": "Description for Meghalaya",
+      "category": "Category for Meghalaya",
+      "longdescription": "Meghalaya, located in the northeastern part of India, is a land of pristine beauty and abundant rainfall. It is known for its lush forests, stunning waterfalls, and unique living root bridges. The state offers numerous opportunities for adventure, including trekking in the dense woods and exploring limestone caves. Shillong, the capital of Meghalaya, is a charming city with a rich cultural heritage and is often referred to as the 'Scotland of the East.' Visitors can immerse themselves in the local Khasi culture, taste traditional delicacies, and enjoy the mesmerizing landscapes of this enchanting state.",
+      "userEmail": "dibyendu.pr@gmail.com",
+      "userName": "Dibyendu Pramanik",
+      "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIDIFQjgeteuk5noUCd_zgk1ZE-u2bdfK9f1AI_JbE_Ijc=s96-c",
+      "createdAt": {
+        "date": "2023-11-06",
+        "time": "09:15:00"
+      }
+    },
+    {
+      "title": "Tawang",
+      "image": "https://image-url-for-tawang",
+      "description": "Description for Tawang",
+      "category": "Category for Tawang",
+      "longdescription": "Tawang, located in the northeastern state of Arunachal Pradesh, is a hidden gem in the Himalayas. It is known for its pristine landscapes, serene monasteries, and a rich cultural heritage. The Tawang Monastery, one of the largest monasteries in India, is a major attraction. Visitors can explore the beautiful high-altitude lakes, go for treks in the surrounding mountains, and witness the local festivals and traditions. Tawang's natural beauty and spiritual aura make it a unique destination for those seeking tranquility and adventure.",
+      "userEmail": "dibyendu.pr@gmail.com",
+      "userName": "Dibyendu Pramanik",
+      "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIDIFQjgeteuk5noUCd_zgk1ZE-u2bdfK9f1AI_JbE_Ijc=s96-c",
+      "createdAt": {
+        "date": "2023-11-06",
+        "time": "10:00:00"
+      }
+    },
+    {
+      "title": "Andaman and Nicobar",
+      "image": "https://image-url-for-andaman",
+      "description": "Description for Andaman and Nicobar",
+      "category": "Category for Andaman and Nicobar",
+      "longdescription": "The Andaman and Nicobar Islands, a union territory in the Bay of Bengal, are known for their pristine beaches, crystal-clear waters, and diverse marine life. The islands offer a paradise for beach lovers, scuba divers, and nature enthusiasts. Visitors can relax on the sandy shores, explore the underwater world through snorkeling and scuba diving, and go on wildlife excursions in the dense forests. The rich tribal culture of the islands adds to their unique charm, making them an ideal destination for a tropical escape.",
+      "userEmail": "dibyendu.pr@gmail.com",
+      "userName": "Dibyendu Pramanik",
+      "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIDIFQjgeteuk5noUCd_zgk1ZE-u2bdfK9f1AI_JbE_Ijc=s96-c",
+      "createdAt": {
+        "date": "2023-11-06",
+        "time": "11:45:00"
+      }
+    },
+    {
+      "title": "Simla",
+      "image": "https://image-url-for-kolkata",
+      "description": "",
+      "category": "",
+      "longdescription": "Kolkata, formerly known as Calcutta, is the capital city of the Indian state of West Bengal. It is a vibrant and culturally rich metropolis known for its historical significance and architectural marvels. The Victoria Memorial, a stunning white marble monument, is a symbol of the city's colonial heritage. Visitors can explore the museum inside the memorial and take a leisurely stroll in the lush gardens surrounding it. Kolkata is also famous for its street food, artistic traditions, and festivals. It's a city that beautifully blends the old and the new, offering a diverse and colorful experience to its visitors.",
+      "userEmail": "dibyendu.pr@gmail.com",
+      "userName": "Dibyendu Pramanik",
+      "userPhoto": "https://lh3.googleusercontent.com/a/ACg8ocIDIFQjgeteuk5noUCd_zgk1ZE-u2bdfK9f1AI_JbE_Ijc=s96-c",
+      "createdAt": {
+        "date": "2023-11-06",
+        "time": "12:30:00"
+      }
+    }
+  ]
+  
