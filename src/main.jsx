@@ -17,6 +17,7 @@ import FeatureBlogs from "./components/Menus/FeatureBlogs";
 import Wishlist from "./components/Menus/Wishlist";
 import Details from "./components/Extrapages/Details";
 import Update from "./components/Dashboard/Update";
+import WinTicket from "./components/Home/WinTicket";
 
 // import Product from "./components/Home/Product";
 
@@ -65,6 +66,11 @@ const router = createBrowserRouter([
         element:<FeatureBlogs/>,
         loader:()=>fetch('https://assesment-11-tourblog-server.vercel.app/blog')
       },
+      {
+        path:'/win',
+        element: <WinTicket/>
+      },
+
       {
         path:'/wishlist',
         element:<PrivateRoute><Wishlist/></PrivateRoute>,

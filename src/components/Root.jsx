@@ -7,7 +7,8 @@ const Root = () => {
     return (
         <div>
            <Outlet></Outlet>
-           <Toaster/>
+           <Toaster   position="top-right"
+  reverseOrder={false}/>
         </div>
     );
 };

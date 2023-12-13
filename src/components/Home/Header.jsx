@@ -63,6 +63,17 @@ const Header = () => {
           Wishlist
         </NavLink>
       </li>
+
+      <li>
+        <NavLink
+          className={({ isActive }) =>
+            isActive ? 'btn btn-sm bg-red-500 normal-case' : 'btn btn-ghost btn-sm normal-case'
+          }
+          to="/win"
+        >
+          Win Ticket
+        </NavLink>
+      </li>
      
       {user ? (
         <>
@@ -84,6 +95,8 @@ const Header = () => {
           </div>
         </>
       )}
+
+      
     </>
   );
 
