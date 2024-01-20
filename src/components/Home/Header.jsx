@@ -101,7 +101,8 @@ const Header = () => {
   );
 
   return (
-    <div className="navbar w-[1200px] mx-auto rounded-sm shadow-xl sticky top-0 z-50 bg-white">
+    <div className='max-w-[1280px] mx-auto sticky top-0 z-50' >
+    <div className="navbar  rounded-sm shadow-xl  bg-transparent">
       <div className="navbar-start  ">
         <div className="dropdown">
           <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -131,6 +132,7 @@ const Header = () => {
       </div>
 
       <div className="navbar-end">{user ? <></> : <></>}</div>
+    </div>
     </div>
   );
 };
